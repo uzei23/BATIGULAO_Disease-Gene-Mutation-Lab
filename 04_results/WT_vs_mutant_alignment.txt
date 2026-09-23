@@ -1,0 +1,221 @@
+########################################
+# Program: needle
+# Rundate: Fri 18 Sep 2026 02:03:02
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79840927/inputs/dataset_34a597b2-8554-4af6-b3d2-6f15e18b7364.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79840927/inputs/dataset_8d2e776d-fa37-411b-b06a-19c30462754c.dat
+#    -outfile /jetstream2/scratch/main/jobs/79840927/outputs/dataset_e56f4c3f-4e51-4de3-969c-cf685aa90d53.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79840927/outputs/dataset_e56f4c3f-4e51-4de3-969c-cf685aa90d53.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 210-6257_1
+# 2: 210-6257_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 2263
+# Identity:    1525/2263 (67.4%)
+# Similarity:  1590/2263 (70.3%)
+# Gaps:         493/2263 (21.8%)
+# Score: 7355.5
+# 
+#
+#=======================================
+
+210-6257_1         1 MANFLLPRGTSSFRRFTRESLAAIEKRMAEKQARGSTTLQESREGLPEEE     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1         1 MANFLLPRGTSSFRRFTRESLAAIEKRMAEKQARGSTTLQESREGLPEEE     50
+
+210-6257_1        51 APRPQLDLQASKKLPDLYGNPPQELIGEPLEDLDPFYSTQKTFIVLNKGK    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1        51 APRPQLDLQASKKLPDLYGNPPQELIGEPLEDLDPFYSTQKTFIVLNKGK    100
+
+210-6257_1       101 TIFRFSATNALYVLSPFHPIRRAAVKILVHSLFNMLIMCTILTNCVFMAQ    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       101 TIFRFSATNALYVLSPFHPIRRAAVKILVHSLFNMLIMCTILTNCVFMAQ    150
+
+210-6257_1       151 HDPPPWTKYVEYTFTAIYTFESLVKILARGFCLHAFTFLRDPWNWLDFSV    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       151 HDPPPWTKYVEYTFTAIYTFESLVKILARGFCLHAFTFLRDPWNWLDFSV    200
+
+210-6257_1       201 IIMAYTTEFVDLGNVSALRTFRVLRALKTISVISGLKTIVGALIQSVKKL    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       201 IIMAYTTEFVDLGNVSALRTFRVLRALKTISVISGLKTIVGALIQSVKKL    250
+
+210-6257_1       251 ADVMVLTVFCLSVFALIGLQLFMGNLRHKCVRNFTALNGTNGSVEADGLV    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       251 ADVMVLTVFCLSVFALIGLQLFMGNLRHKCVRNFTALNGTNGSVEADGLV    300
+
+210-6257_1       301 WESLDLYLSDPENYLLKNGTSDVLLCGNSSDAGTCPEGYRCLKAGENPDH    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       301 WESLDLYLSDPENYLLKNGTSDVLLCGNSSDAGTCPEGYRCLKAGENPDH    350
+
+210-6257_1       351 GYTSFDSFAWAFLALFRLMTQDCWERLYQQTLRSAGKIYMIFFMLVIFLG    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       351 GYTSFDSFAWAFLALFRLMTQDCWERLYQQTLRSAGKIYMIFFMLVIFLG    400
+
+210-6257_1       401 SFYLVNLILAVVAMAYEEQNQATIAETEEKEKRFQEAMEMLKKEHEALTI    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       401 SFYLVNLILAVVAMAYEEQNQATIAETEEKEKRFQEAMEMLKKEHEALTI    450
+
+210-6257_1       451 RGVDTVSRSSLEMSPLAPVNSHERRSKRRKRMSSGTEECGEDRLPKSDSE    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       451 RGVDTVSRSSLEMSPLAPVNSHERRSKRRKRMSSGTEECGEDRLPKSDSE    500
+
+210-6257_1       501 DGPRAMNHLSLTRGLSRTSMKPRSSRGSIFTFRRRDLGSEADFADDENST    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       501 DGPRAMNHLSLTRGLSRTSMKPRSSRGSIFTFRRRDLGSEADFADDENST    550
+
+210-6257_1       551 AGESESHHTSLLVPWPLRRTSAQGQPSPGTSAPGHALHGKKNSTVDCNGV    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       551 AGESESHHTSLLVPWPLRRTSAQGQPSPGTSAPGHALHGKKNSTVDCNGV    600
+
+210-6257_1       601 VSLLGAGDPEATSPGSHLLRPVMLEHPPDTTTPSEEPGGPQMLTSQAPCV    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       601 VSLLGAGDPEATSPGSHLLRPVMLEHPPDTTTPSEEPGGPQMLTSQAPCV    650
+
+210-6257_1       651 DGFEEPGARQRALSAVSVLTSALEELEESRHKCPPCWNRLAQRYLIWECC    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       651 DGFEEPGARQRALSAVSVLTSALEELEESRHKCPPCWNRLAQRYLIWECC    700
+
+210-6257_1       701 PLWMSIKQGVKLVVMDPFTDLTITMCIVLNTLFMALEHYNMTSEFEEMLQ    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       701 PLWMSIKQGVKLVVMDPFTDLTITMCIVLNTLFMALEHYNMTSEFEEMLQ    750
+
+210-6257_1       751 VGNLVFTGIFTAEMTFKIIALDPYYYFQQGWNIFDSIIVILSLMELGLSR    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       751 VGNLVFTGIFTAEMTFKIIALDPYYYFQQGWNIFDSIIVILSLMELGLSR    800
+
+210-6257_1       801 MSNLSVLRSFRLLRVFKLAKSWPTLNTLIKIIGNSVGALGNLTLVLAIIV    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       801 MSNLSVLRSFRLLRVFKLAKSWPTLNTLIKIIGNSVGALGNLTLVLAIIV    850
+
+210-6257_1       851 FIFAVVGMQLFGKNYSELRDSDSGLLPRWHMMDFFHAFLIIFRILCGEWI    900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       851 FIFAVVGMQLFGKNYSELRDSDSGLLPRWHMMDFFHAFLIIFRILCGEWI    900
+
+210-6257_1       901 ETMWDCMEVSGQSLCLLVFLLVMVIGNLVVLNLFLALLLSSFSADNLTAP    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       901 ETMWDCMEVSGQSLCLLVFLLVMVIGNLVVLNLFLALLLSSFSADNLTAP    950
+
+210-6257_1       951 DEDREMNNLQLALARIQRGLRFVKRTTWDFCCGLLRQRPQKPAALAAQGQ   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1       951 DEDREMNNLQLALARIQRGLRFVKRTTWDFCCGLLRQRPQKPAALAAQGQ   1000
+
+210-6257_1      1001 LPSCIATPYSPPPPETEKVPPTRKETRFEEGEQPGQGTPGDPEPVCVPIA   1050
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1001 LPSCIATPYSPPPPETEKVPPTRKETRFEEGEQPGQGTPGDPEPVCVPIA   1050
+
+210-6257_1      1051 VAESDTDDQEEDEENSLGTEEESSKQESQPVSGGPEAPPDSRTWSQVSAT   1100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1051 VAESDTDDQEEDEENSLGTEEESSKQESQPVSGGPEAPPDSRTWSQVSAT   1100
+
+210-6257_1      1101 ASSEAEASASQADWRQQWKAEPQAPGCGETPEDSCSEGSTADMTNTAELL   1150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1101 ASSEAEASASQADWRQQWKAEPQAPGCGETPEDSCSEGSTADMTNTAELL   1150
+
+210-6257_1      1151 EQIPDLGQDVKDPEDCFTEGCVRRCPCCAVDTTQAPGKVWWRLRKTCYHI   1200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1151 EQIPDLGQDVKDPEDCFTEGCVRRCPCCAVDTTQAPGKVWWRLRKTCYHI   1200
+
+210-6257_1      1201 VEHSWFETFIIFMILLSSGALAFEDIYLEERKTIKVLLEYADKMFTYVFV   1250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1201 VEHSWFETFIIFMILLSSGALAFEDIYLEERKTIKVLLEYADKMFTYVFV   1250
+
+210-6257_1      1251 LEMLLKWVAYGFKKYFTNAWCWLDFLIVDVSLVSLVANTLGFAEMGPIKS   1300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1251 LEMLLKWVAYGFKKYFTNAWCWLDFLIVDVSLVSLVANTLGFAEMGPIKS   1300
+
+210-6257_1      1301 LRTLRALRPLRALSRFEGMRVVVNALVGAIPSIMNVLLVCLIFWLIFSIM   1350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1301 LRTLRALRPLRALSRFEGMRVVVNALVGAIPSIMNVLLVCLIFWLIFSIM   1350
+
+210-6257_1      1351 GVNLFAGKFGRCINQTEGDLPLNYTIVNNKSQCESLNLTGELYWTKVKVN   1400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+210-6257_1      1351 GVNLFAGKFGRCINQTEGDLPLNYTIVNNKSQCESLNLTGELYWTKVKVN   1400
+
+210-6257_1      1401 FDNVGAGYLALLQVATFKGWMDIMYAAVDSRGYEE------QPQWEYNLY   1444
+                     ||||||||||||||||||||||||||||||||...      ||   .:::
+210-6257_1      1401 FDNVGAGYLALLQVATFKGWMDIMYAAVDSRGV*RAASVGIQP---LHVH   1447
+
+210-6257_1      1445 MYIYFVIFIIFGSFFTLNLFIGVIIDNFNQQKKKLGGQDIFM--------   1486
+                     ::.:|....:|                       |..:.::.        
+210-6257_1      1448 LFCHFHHLWVF-----------------------LHPEPLYWCHH*QLQP   1474
+
+210-6257_1      1487 TEEQKKYYNAMKKLGSKKPQKPIPRPLNKYQGFIFDIVTKQAFDVTIMFL   1536
+                     |||              |.:.|         |.:.|   :.|.:|    |
+210-6257_1      1475 TEE--------------KVRGP---------GHLHD---RGAEEV----L   1494
+
+210-6257_1      1537 ICLNMVTMM--VETDDQSPEKINILAKINLLFVAIFTGECIVKLAAL-RH   1583
+                     .|.....:.  .|....:||::          ..:....|  ..|.| ||
+210-6257_1      1495 QCHEEAGLQEAPEAHPTAPEQV----------PGLHIRHC--DQAGL*RH   1532
+
+210-6257_1      1584 YYFTNSWNIFDFVVVILSIVGTVLSDIIQKYFF-----------------   1616
+                     ::                     :||:::....                 
+210-6257_1      1533 HH---------------------VSDLLEYGDHDGGDR*PKS*ENQHLGQ   1561
+
+210-6257_1      1617 -SPTLFRVIRLARIGRILRLIRGAKGIRTLLFALMMSLPALFNIGLLLFL   1665
+                      .|.|        .|.:.|.:....|           .||    .|||..
+210-6257_1      1562 DQPAL--------CGHLHRRVYCQAG-----------CPA----PLLLHQ   1588
+
+210-6257_1      1666 VMFIYSIFGMANFAYVKWEAGIDDMFNFQTFANSMLCLFQITTSAGWDGL   1715
+                     .:....:.|                                         
+210-6257_1      1589 QLEYLRLRG-----------------------------------------   1597
+
+210-6257_1      1716 LSPILNTGPPYCDPTLPNSNGSRGDCGSPAVGILFFTTYIIISFLIVVNM   1765
+                                |.|.      .||.|   |:|                 .
+210-6257_1      1598 -----------CHPL------HRGHC---ALG-----------------H   1610
+
+210-6257_1      1766 YIAIILENFSVAT--------EESTEPLSEDDFDMFYEIWEKFDPEATQF   1807
+                     :..::|...::.:        ...|:|..:.            ||.|...
+210-6257_1      1611 HPEVLLLPDALPSHPPGPNRPHPQTDPRGQG------------DPHAALC   1648
+
+210-6257_1      1808 IEYSVLSDFADALSEPLR---IAKPNQISLIN-----MDLPMVSG-DRIH   1848
+                     ..        |..:.||:   .|.|..:.|::     :.|..|.| .|.|
+210-6257_1      1649 PH--------DVPACPLQHRAAALPRHVHLLHLWHGQLRLCQVGGWHRRH   1690
+
+210-6257_1      1849 CMDILFAFTKRVLGESGEMDALKIQMEEKFMAANPSKISYEPIT-----T   1893
+                     .                ::..|:.|........:..::.:.|..     .
+210-6257_1      1691 V----------------QLPDLRQQHAVPLPDHHVGRLGWPPQPHPQHWA   1724
+
+210-6257_1      1894 TLRRKHEEVSAMV---IQRAFRRHLLQRSLKHASFLFR-----------Q   1929
+                     .|.|.|......:   ::...|.|.|...|.|.....|           .
+210-6257_1      1725 ALLRPHSAQQQWLSGGLREPSRGHPLLHHLHHHLLPHRGQHVHCHHPGEL   1774
+
+210-6257_1      1930 QAGSGLSEEDAPEREGLIAYVMSENFSRPLGP--PSSSSIS---------   1968
+                     |.|.| .|..||| .|.:.||:.:     ||.  |...|:.         
+210-6257_1      1775 QRGHG-GEHRAPE-*GRLRYVL*D-----LGEI*PRGHSVY*VFGPV*LC   1817
+
+210-6257_1      1969 -----STSFPPSYDSVTRATSDNLQVRGSDYSHSEDLADFPPSPDRDRES   2013
+                          :|.:       .:|..|      ..:.|.....::.|.|......
+210-6257_1      1818 RCPV*ATPY-------RQAQPD------KPHQHGPAHGEWGPHPLHGHSL   1854
+
+210-6257_1      2014 IV*-----------------------------------------------   2016
+                     .:.                                               
+210-6257_1      1855 CLHQKGPGGVWGDGRPEDPDGGEVHGSQPIQDLLRAHHHHTPAQARRGVG   1904
+
+210-6257_1      2016 --------------------------------------------------   2016
+                                                                       
+210-6257_1      1905 HGYPESLPQAPAATLFEACLLPLPSAGGQRPLRRGCP*ARGPHRLRDE*E   1954
+
+210-6257_1      2016 --------------------------------------------------   2016
+                                                                       
+210-6257_1      1955 LLPTPWPTLQLLHLLHFLPTLL*QCH*SHQR*PPGAGV*LQPQ*RSRRLP   2004
+
+210-6257_1      2016 -------------   2016
+                                  
+210-6257_1      2005 PFSGQGP*VHRVX   2017
+
+
+#---------------------------------------
+#---------------------------------------
